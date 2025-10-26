@@ -20,8 +20,8 @@ jobs:
 
         - name: Run Shell Script
           run: |
-             chmod +x shall-script.sh
-             ./shall-script.sh
+             chmod +x shell-script.sh
+             ./shell-script.sh
 
         - name: Run All Command at Once
           run: | 
